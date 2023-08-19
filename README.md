@@ -1,2 +1,2 @@
 # scientific-calculator
-A basic scientic calculator using HTML, CSS and JavaScript
+A basic scientific calculator using HTML, CSS and JavaScript
